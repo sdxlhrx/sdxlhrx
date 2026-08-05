@@ -1,43 +1,42 @@
-&lt;div align="center"&gt;
+<p align="center">
+  <img src="https://via.placeholder.com/1280x320/F4A5B0/FFFFFF?text=🎸+这里放你的+Banner+图" 
+       alt="Banner" width="100%" />
+</p>
+<h1 align="center">
+  🎸 こんにちは！我是 <span style="color:#F4A5B0;">后藤独</span>
+</h1>
 
-&lt;!-- 顶部横幅 --&gt;
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,06b6d4,a78bfa&height=220&section=header&text=🎸%20Bocchi%20Zone%20🎸&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Coding%20like%20Hitori%20plays%20guitar%20—%20awkward%20but%20passionate!&descAlignY=55&descSize=18" /&gt;
+<p align="center">
+  <img align="right" src="https://via.placeholder.com/200x200/9370DB/FFFFFF?text=后藤独" 
+       alt="后藤独" width="180" style="border-radius:20px;" />
+  
+  <!-- 这里写你的简介，可随意修改 -->
+  <b>「孤独摇滚，但不孤单」</b><br>
+  🔭 正在努力练习吉他…… 和写代码<br>
+  🌱 目前在学习 <code>AI agent</code> 和 <code>数据建模</code><br>
+  ⚡ 事实：我和后藤独一样，都是社恐 (bushi)
+</p>
 
-&lt;!-- 后藤独欢迎语 --&gt;
-&lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=こんにちは!+I'm+a+developer+like+Bocchi...;I+code+alone+but+rock+together!;后藤独+の+ように+頑張ります!;ギターとコードが大好き!;Let's+make+something+awesome!" alt="Typing SVG" /&gt;
+<br clear="both"/> <!-- 清除浮动，避免影响下方布局 -->
 
-&lt;br&gt;
+<h2 align="center">📊 GitHub 数据</h2>
 
-&lt;!-- 后藤独形象区 --&gt;
-&lt;img src="https://media.tenor.com/1y8zDc-ll-EAAAAd/bocchi-the-rock-hitori-gotoh.gif" width="280" alt="Bocchi The Rock GIF" /&gt;
+<p align="center">
+  <!-- 统计卡片 -->
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=sdxlhrx&show_icons=true&theme=buefy&title_color=F4A5B0&icon_color=FFB6C1&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
+       alt="GitHub统计" />
+  
+  <!-- 语言占比 -->
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdxlhrx&layout=compact&theme=buefy&title_color=F4A5B0&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
+       alt="常用语言" />
+</p>
 
-&lt;/div&gt;
 
----
 
-## 🎨 配色宣言
-&gt; *"就算一个人，也能写出摇滚级别的代码！"*
-
-| 角色元素 | 色彩代码 | 用途 |
-|---------|---------|------|
-| 🎸 粉发 & 吉他 | `#FF6B9D` | 主标题、强调 |
-| 💧 演出灯光 | `#06B6D4` | 链接、次级强调 |
-| 🌌 舞台背景 | `#A78BFA` | 装饰、高亮 |
-| ⚡ 聚光灯 | `#FBBF24` | 警告、星星 |
-
----
-
-## 🧑‍💻 关于我
-
-```yaml
-name: [Ruoxi Huang]
-alias: "后藤独同款社恐程序员"
-location: "🎸 恒星の屋根裏 (Starry Basement)"
-current_status: "一个人也能写代码，但多人合作更摇滚！"
-hobbies:
-  - 🎸 弹吉他 (像Bocchi一样努力练习中...)
-  - 💻 写代码
-  - 🎮 玩音游
-  - 🍜 吃拉面
-spirit_animal: 🎸 后藤独 (Bocchi / Hitori Gotoh)
-favorite_quote: "孤独でも、音楽は続く！"
+<p align="center">
+  <i>「吉他与代码，都是我的声音」—— 后藤独</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/-Powered%20by%20孤独摇滚-F4A5B0?style=for-the-badge&logo=github&logoColor=white" />
+</p>
