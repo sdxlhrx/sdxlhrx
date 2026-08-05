@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1280x320/F4A5B0/FFFFFF?text=🎸+这里放你的+Banner+图" 
+  <img src="[https://via.placeholder.com/1280x320/F4A5B0/FFFFFF?text=🎸+这里放你的+Banner+图](https://github.com/sdxlhrx/sdxlhrx/blob/main/preview.gif)" 
        alt="Banner" width="100%" />
 </p>
 <h1 align="center">
