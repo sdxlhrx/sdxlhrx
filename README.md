@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[https://via.placeholder.com/1280x320/F4A5B0/FFFFFF?text=🎸+这里放你的+Banner+图](https://github.com/sdxlhrx/sdxlhrx/blob/main/preview.gif)" 
-       alt="Banner" width="100%" />
+      ![image](https://github.com/sdxlhrx/sdxlhrx/blob/main/preview1.jpg)
 </p>
 <h1 align="center">
   🎸 こんにちは！我是 <span style="color:#F4A5B0;">后藤独</span>
@@ -14,7 +13,7 @@
   <b>「孤独摇滚，但不孤单」</b><br>
   🔭 正在努力练习吉他…… 和写代码<br>
   🌱 目前在学习 <code>AI agent</code> 和 <code>数据建模</code><br>
-  ⚡ 事实：我和后藤独一样，都是社恐 (bushi)
+  ⚡ 事实：我和后藤独一样，都是社恐 我也非常热爱计算机科学与地球科学(bushi)
 </p>
 
 <br clear="both"/> <!-- 清除浮动，避免影响下方布局 -->
