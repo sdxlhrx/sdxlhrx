@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/sdxlhrx/sdxlhrx/main/preview2.jpg" 
+  <img align="right" src="https://raw.githubusercontent.com/sdxlhrx/sdxlhrx/main/preview1.jpg" 
        alt="后藤独" width="180" style="border-radius:20px;" />
   
 
