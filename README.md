@@ -1,12 +1,12 @@
 <p align="center">
-      <img align="center" src="[img](https://github.com/sdxlhrx/sdxlhrx/blob/main/preview2.jpg)" 
+  <img align="center" src="https://raw.githubusercontent.com/sdxlhrx/sdxlhrx/main/preview2.jpg" />
 </p>
 <h1 align="center">
   🎸 こんにちは！我是 <span style="color:#F4A5B0;">后藤独</span>
 </h1>
 
 <p align="center">
-  <img align="right" src="[img](https://github.com/sdxlhrx/sdxlhrx/blob/main/preview1.jpg)" 
+  <img align="right" src="https://raw.githubusercontent.com/sdxlhrx/sdxlhrx/main/preview2.jpg" 
        alt="后藤独" width="180" style="border-radius:20px;" />
   
 
@@ -22,20 +22,19 @@
 
 <p align="center">
   <!-- 统计卡片 -->
-  <img align="center" 
-       src="https://github-stats-extended.vercel.app/api?username=sdxlhrx&show_icons=true&theme=buefy&title_color=F4A5B0&icon_color=FFB6C1&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
+  <img src="https://github-stats-extended.vercel.app/api?username=sdxlhrx&show_icons=true&title_color=FACC15&icon_color=EF4444&text_color=FFFFFF&bg_color=45,1e3a8a,EF4444&hide_border=true" 
        alt="GitHub统计" />
-  
-  <!-- 语言占比 -->
-  <img align="center" 
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=sdxlhrx&layout=compact&theme=buefy&title_color=F4A5B0&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
-       alt="常用语言" />
 </p>
 
-
+<p align="center">
+  <!-- 语言占比 -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sdxlhrx&layout=compact&title_color=FACC15&text_color=FFFFFF&bg_color=45,1e3a8a,EF4444&hide_border=true" 
+       alt="常用语言" />
+</p>
 
 <p align="center">
   <i>「吉他与代码，都是我的声音」—— 后藤独</i>
   <br><br>
-  <img src="https://img.shields.io/badge/-Powered%20by%20孤独摇滚-F4A5B0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/sdxlhrx/sdxlhrx/main/preview.gif" 
+       alt="后藤独动图" width="200" />
 </p>
