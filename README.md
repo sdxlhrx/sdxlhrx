@@ -23,12 +23,12 @@
 <p align="center">
   <!-- 统计卡片 -->
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=sdxlhrx&show_icons=true&theme=buefy&title_color=F4A5B0&icon_color=FFB6C1&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
+       src="https://github-stats-extended.vercel.app/api?username=sdxlhrx&show_icons=true&theme=buefy&title_color=F4A5B0&icon_color=FFB6C1&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
        alt="GitHub统计" />
   
   <!-- 语言占比 -->
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdxlhrx&layout=compact&theme=buefy&title_color=F4A5B0&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=sdxlhrx&layout=compact&theme=buefy&title_color=F4A5B0&text_color=9370DB&bg_color=45,FFB6C1,9370DB&hide_border=true" 
        alt="常用语言" />
 </p>
 
